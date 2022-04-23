@@ -1,0 +1,27 @@
+.description{
+	float: left;
+	padding-left: 5%;
+}
+
+.description h2{
+	font-size: 30px;
+	color: purple;
+}
+.botton{
+	margin:20px;
+}
+
+
+.other_links{
+	float: right;
+	padding-right: 10%;
+}
+.other_links h2{
+	font-size: 40px;
+	color: purple;
+}
+
+ul,li{
+	font-size:20px;
+	display:inline;
+}
